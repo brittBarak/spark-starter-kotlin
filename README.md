@@ -47,7 +47,7 @@ fun main() {
 }
 ```
 
-This class sets up a route listening for a GET and a route listening for a POST request on the `https://localhost:3000/example` path.
+This class sets up a route listening for a GET and a route listening for a POST request on the `http://localhost:3000/example` path.
 
 Any `String` that you return in each `Route` will be sent back to the user.
 
